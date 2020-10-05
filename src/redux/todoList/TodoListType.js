@@ -1,0 +1,3 @@
+export const ADD_NEW_ITEM = "ADD_NEW_ITEM";
+export const CHECK_BOX_CHANGE = "CHECK_BOX_CHANGE";
+export const INPUT_TEXT_CHANGE = "INPUT_TEXT_CHANGE";
